@@ -1,5 +1,5 @@
-#  Jeshka, JESH and JIot Projects
-Community Projects in development. 
+#  Jeshka Projects
+Community Projects in development.
 
 - [Jeshka](#Jeshka)
 - [JESH](#JESH)
