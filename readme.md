@@ -15,4 +15,4 @@ ngx-jeshka-eth-entity | Angular5+ Ethereum Network Adaptor | [Jeshka Del Sur](ht
 ## JIot
 Project Title | Description | Author(s) | Repository
 :-- | :-- | :--: | :--
-Python Node | JIot Node written in Python | [Jeshka Del Sur](https://github.com/user/Rainbow-Unicorn-Oo) | [jiot-python-full](https://github.com/user/Rainbow-Unicorn-Oo/jiot-python-full)
+Java Node | JIot Node written in Java | [Jeshka Del Sur](https://github.com/user/Rainbow-Unicorn-Oo) | [jiot-java-full](https://github.com/user/Rainbow-Unicorn-Oo/jiot-java-full)
