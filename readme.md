@@ -16,6 +16,7 @@ ngx-jeshka-approutes | Angular5+ Base App-Routes | [Jeshka Del Sur](https://gith
 ngx-jeshka-navroutes | Angular5+ Routes | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-navroutes](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-navroutes)
 ngx-jeshka-navside | Angular5+ Sidebar | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-navside](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-navside)
 ngx-jeshka-navbar | Angular5+ Navbar | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-navbar](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-navbar)
+ngx-jeshka-tour | Angular5+ Tour | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-tour](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-tour)
 ngx-jeshka-eth-entity | Angular5+ Ethereum Network Adaptor | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-eth](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-eth)
 
 
