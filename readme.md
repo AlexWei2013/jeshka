@@ -10,7 +10,7 @@ Community Projects in development.
 ## Jeshka
 Project Title | Description | Author(s) | Repository
 :-- | :-- | :--: | :--
-ngx-jeshka-scaffold | Angular5+ Base Scaffolding | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-scaffold](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-scaffold)
+ngx-jeshka-scaffolding | Angular5+ Base Scaffolding | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-scaffolding](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-scaffolding)
 ngx-jeshka-navroutes | Angular5+ Routes | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-navroutes](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-navroutes)
 ngx-jeshka-navside | Angular5+ Sidebar | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-navside](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-navside)
 ngx-jeshka-navbar | Angular5+ Navbar | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-navbar](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-navbar)
