@@ -10,11 +10,11 @@ Community Projects in development.
 ## Jeshka
 Project Title | Description | Author(s) | Repository
 :-- | :-- | :--: | :--
-ngx-jeshka-scaffold | Angular5+ Base Scaffolding | [Jeshka Del Sur](https://github.com/user/Rainbow-Unicorn-Oo) | [ngx-jeshka-scaffold](https://github.com/user/Rainbow-Unicorn-Oo/ngx-jeshka-scaffold)
-ngx-jeshka-navroutes | Angular5+ Routes | [Jeshka Del Sur](https://github.com/user/Rainbow-Unicorn-Oo) | [ngx-jeshka-navroutes](https://github.com/user/Rainbow-Unicorn-Oo/ngx-jeshka-navroutes)
-ngx-jeshka-navside | Angular5+ Sidebar | [Jeshka Del Sur](https://github.com/user/Rainbow-Unicorn-Oo) | [ngx-jeshka-navside](https://github.com/user/Rainbow-Unicorn-Oo/ngx-jeshka-navside)
-ngx-jeshka-navbar | Angular5+ Navbar | [Jeshka Del Sur](https://github.com/user/Rainbow-Unicorn-Oo) | [ngx-jeshka-navbar](https://github.com/user/Rainbow-Unicorn-Oo/ngx-jeshka-navbar)
-ngx-jeshka-eth-entity | Angular5+ Ethereum Network Adaptor | [Jeshka Del Sur](https://github.com/user/Rainbow-Unicorn-Oo) | [ngx-jeshka-eth](https://github.com/user/Rainbow-Unicorn-Oo/ngx-jeshka-eth)
+ngx-jeshka-scaffold | Angular5+ Base Scaffolding | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-scaffold](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-scaffold)
+ngx-jeshka-navroutes | Angular5+ Routes | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-navroutes](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-navroutes)
+ngx-jeshka-navside | Angular5+ Sidebar | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-navside](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-navside)
+ngx-jeshka-navbar | Angular5+ Navbar | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-navbar](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-navbar)
+ngx-jeshka-eth-entity | Angular5+ Ethereum Network Adaptor | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-eth](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-eth)
 
 
 ## JIot
