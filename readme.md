@@ -1,7 +1,7 @@
 #  Jeshka Projects
 Community Projects in development.
 
-> We're currently reorganising the repositories, going to update the list on Feb 8.
+> We're currently reorganising the repositories, going to update the list on Feb 13.
 
 - [Jeshka](#Jeshka)
 - [JESH](#JESH)
