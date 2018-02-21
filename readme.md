@@ -8,14 +8,14 @@ https://jeshka.io Community Projects in development.
 - [JIot](#JIot)
 
 ## Jeshka
-Use the scripts in Scaffolding to set up your environment. This will include the installation of ngx-jeshka-app and ngx-jeshka-approutes.
+Use the scripts in Scaffolding to set up your environment. It includes the installation of ngx-jeshka-app and ngx-jeshka-approutes.
 
-Project Title | Description | Author(s) | Repository
+Repository | Description | Author(s) | Visibility
 :-- | :-- | :--: | :--
-ngx-jeshka-scaffolding | Angular5+ Base Scaffolding | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-scaffolding](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-scaffolding)
-ngx-jeshka-app | Angular5+ Base App Component | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-app](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-app)
-ngx-jeshka-approutes | Angular5+ Base App-Routes | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-approutes](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-approutes)
-ngx-jeshka-airdrop | Angular5+ OmiseGo Airdropper Component | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-airdrop](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-airdrop)
+[ngx-jeshka-scaffolding](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-scaffolding) | Angular5+ Base Scaffolding | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | Private
+[ngx-jeshka-app](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-app) | Angular5+ Base App Component | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | Private
+[ngx-jeshka-approutes](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-approutes) | Angular5+ Base App-Routes | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | Private
+[ngx-jeshka-airdrop](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-airdrop) | Angular5+ OmiseGo Airdropper Component | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | Public
 
 <!--ngx-jeshka-navroutes | Angular5+ Routes | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-navroutes](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-navroutes)
 ngx-jeshka-navside | Angular5+ Sidebar | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-navside](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-navside)
@@ -25,6 +25,6 @@ ngx-jeshka-eth-entity | Angular5+ Ethereum Network Adaptor | [Jeshka Del Sur](ht
 
 
 ## JIot
-Project Title | Description | Author(s) | Repository
+Repository | Description | Author(s) | Visibility
 :-- | :-- | :--: | :--
-Java Node | JIot Node written in Java | [Jeshka Del Sur](https://github.com/user/Rainbow-Unicorn-Oo) | [jiot-java-full](https://github.com/user/Rainbow-Unicorn-Oo/jiot-java-full)
+[jiot-java-full](https://github.com/user/Rainbow-Unicorn-Oo/jiot-java-full) | JIot Node written in Java | [Jeshka Del Sur](https://github.com/user/Rainbow-Unicorn-Oo) | Private
