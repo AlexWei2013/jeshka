@@ -1,6 +1,7 @@
 #  Jeshka Projects
 https://jeshka.io Community Projects in development. 
-Contact us about private Repositories [in our Telegram group](https://t.me/joinchat/Hzoziw4a68aOMssRyeOUdQ)
+
+To gain access to private repositories, contact us [in our Telegram group](https://t.me/joinchat/Hzoziw4a68aOMssRyeOUdQ)
 > We're currently reorganising the repositories, going to update the list on Mar 1.
 
 - [Jeshka](#Jeshka)
