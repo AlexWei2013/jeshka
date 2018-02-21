@@ -15,7 +15,7 @@ Project Title | Description | Author(s) | Repository
 ngx-jeshka-scaffolding | Angular5+ Base Scaffolding | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-scaffolding](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-scaffolding)
 ngx-jeshka-app | Angular5+ Base App Component | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-app](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-app)
 ngx-jeshka-approutes | Angular5+ Base App-Routes | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-approutes](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-approutes)
-ngx-jeshka-airdrop | Angular5+ Airdrop Component | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-airdrop](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-airdrop)
+ngx-jeshka-airdrop | Angular5+ OmiseGo Airdropper Component | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-airdrop](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-airdrop)
 
 <!--ngx-jeshka-navroutes | Angular5+ Routes | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-navroutes](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-navroutes)
 ngx-jeshka-navside | Angular5+ Sidebar | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-navside](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-navside)
