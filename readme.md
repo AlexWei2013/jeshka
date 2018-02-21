@@ -21,7 +21,7 @@ Repository | Description | Author(s) | Visibility
 [ngx-jeshka-navroutes](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-navroutes) | Angular5+ Routes | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | Private
 [ngx-jeshka-navside](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-navside) | Angular5+ Sidebar | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | Private
 [ngx-jeshka-navbar](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-navbar) | Angular5+ Navbar | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | Private
-[ngx-jeshka-tour](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-tour) | Angular5+ Tour | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | Private
+[ngx-jeshka-tour](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-tour) | Angular5+ Tour | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo), [Samuel](https://github.com/rufsam) | Private
 
 
 
