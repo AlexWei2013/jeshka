@@ -1,8 +1,9 @@
+> We're currently reorganising the repositories, going to update the list on Mar 1.
+
 #  Jeshka Projects
 https://jeshka.io Community Projects in development. 
 
 To gain access to private repositories, contact us [in our Telegram group](https://t.me/joinchat/Hzoziw4a68aOMssRyeOUdQ)
-> We're currently reorganising the repositories, going to update the list on Mar 1.
 
 - [Jeshka](#Jeshka)
 - [JESH](#JESH)
