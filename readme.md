@@ -9,6 +9,7 @@ https://jeshka.io Community Projects in development.
 
 ## Jeshka
 Use the scripts in Scaffolding to set up your environment. 
+
 Project Title | Description | Author(s) | Repository
 :-- | :-- | :--: | :--
 ngx-jeshka-scaffolding | Angular5+ Base Scaffolding | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | [ngx-jeshka-scaffolding](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-scaffolding)
