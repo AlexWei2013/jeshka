@@ -1,6 +1,6 @@
 #  Jeshka Projects
-https://jeshka.io Community Projects in development.
-
+https://jeshka.io Community Projects in development. 
+Contact us about private Repositories [in our Telegram group](https://t.me/joinchat/Hzoziw4a68aOMssRyeOUdQ)
 > We're currently reorganising the repositories, going to update the list on Mar 1.
 
 - [Jeshka](#Jeshka)
@@ -8,7 +8,7 @@ https://jeshka.io Community Projects in development.
 - [JIot](#JIot)
 
 ## Jeshka
-Use the scripts in Scaffolding to set up your environment. It includes the installation of ngx-jeshka-app and ngx-jeshka-approutes.
+Use the scripts in Scaffolding to set up your environment. It includes the installation of ngx-jeshka-app and ngx-jeshka-approutes. 
 
 Repository | Description | Author(s) | Visibility
 :-- | :-- | :--: | :--
