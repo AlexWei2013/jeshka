@@ -18,7 +18,7 @@ Repository | Description | Author(s) | Visibility
 [ngx-jeshka-app](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-app) | Angular5+ Base App Component | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | Private
 [ngx-jeshka-approutes](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-approutes) | Angular5+ Base App-Routes | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | Private
 [ngx-jeshka-airdrop](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-airdrop) | Angular5+ OmiseGo Airdropper Component | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | Public
-[ngx-jeshka-navroutes](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-navroutes | Angular5+ Routes | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | Private)
+[ngx-jeshka-navroutes](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-navroutes) | Angular5+ Routes | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | Private
 [ngx-jeshka-navside](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-navside) | Angular5+ Sidebar | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | Private
 [ngx-jeshka-navbar](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-navbar) | Angular5+ Navbar | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | Private
 [ngx-jeshka-tour](https://github.com/Rainbow-Unicorn-Oo/ngx-jeshka-tour) | Angular5+ Tour | [Jeshka Del Sur](https://github.com/Rainbow-Unicorn-Oo) | Private
