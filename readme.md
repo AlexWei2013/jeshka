@@ -8,7 +8,7 @@ https://jeshka.io Community Projects in development.
 - [JIot](#JIot)
 
 ## Jeshka
-Use the scripts in Scaffolding to set up your environment. 
+Use the scripts in Scaffolding to set up your environment. This will include the installation of ngx-jeshka-app and ngx-jeshka-approutes.
 
 Project Title | Description | Author(s) | Repository
 :-- | :-- | :--: | :--
