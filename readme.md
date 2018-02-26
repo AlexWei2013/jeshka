@@ -8,7 +8,7 @@ To gain access to private repositories, contact us [in our Telegram group](https
 - [Jeshka](#Jeshka)
 - [JESH](#JESH)
 - [JIot](#JIot)
-- [Contracts](##Contracts)
+- [Contracts](#contracts)
 
 ## Jeshka
 Use the scripts in Scaffolding to set up your environment. It includes the installation of ngx-jeshka-app and ngx-jeshka-approutes. 
