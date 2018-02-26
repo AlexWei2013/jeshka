@@ -34,4 +34,4 @@ Repository | Description | Author(s) | Visibility
 ## Contracts
 Repository | Description | Author(s) | Visibility
 :-- | :-- | :--: | :--
-[omisego airdropper contract](https://github.com/Rainbow-Unicorn-Oo/airdrop) | Airdropper Contract For The OmiseGo Token | [Jeshka Del Sur](https://github.com/user/Rainbow-Unicorn-Oo) | Private
+[omisego airdropper contract](https://github.com/Rainbow-Unicorn-Oo/airdrop) | Airdropper Contract For The OmiseGo Token | [OmiseGo Pte Ltd](https://github.com/user/Rainbow-Unicorn-Oo) | Private
