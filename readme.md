@@ -8,6 +8,7 @@ To gain access to private repositories, contact us [in our Telegram group](https
 - [Jeshka](#Jeshka)
 - [JESH](#JESH)
 - [JIot](#JIot)
+- [Contracts](#Contracts)
 
 ## Jeshka
 Use the scripts in Scaffolding to set up your environment. It includes the installation of ngx-jeshka-app and ngx-jeshka-approutes. 
@@ -28,4 +29,9 @@ Repository | Description | Author(s) | Visibility
 ## JIot
 Repository | Description | Author(s) | Visibility
 :-- | :-- | :--: | :--
-[jiot-java-full](https://github.com/user/Rainbow-Unicorn-Oo/jiot-java-full) | JIot Node written in Java | [Jeshka Del Sur](https://github.com/user/Rainbow-Unicorn-Oo) | Private
+[jiot-java-full](https://github.com/user/Rainbow-Unicorn-Oo/jiot-java-full) | JIot Node written In Java | [Jeshka Del Sur](https://github.com/user/Rainbow-Unicorn-Oo) | Private
+
+## Contracts
+Repository | Description | Author(s) | Visibility
+:-- | :-- | :--: | :--
+[omisego airdropper contract](hhttps://github.com/Rainbow-Unicorn-Oo/airdrop) | Airdropper Contract For The OmiseGo Token | [Jeshka Del Sur](https://github.com/user/Rainbow-Unicorn-Oo) | Private
