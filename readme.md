@@ -1,4 +1,4 @@
-> We're currently reorganising the repositories, going to update the list on Mar 1.
+> We're currently reorganising the repositories, going to update the list on Mar 15.
 
 #  Jeshka Projects
 https://jeshka.io Community Projects in development. 
