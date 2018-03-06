@@ -7,7 +7,7 @@ To gain access to private repositories, contact us [in our Telegram group](https
 
 - [Jeshka](#jeshka)
 - [JESH](#JESH)
-- [JIot](#JIot)
+- [JIot](#jiot)
 - [Contracts](#contracts)
 
 ## Jeshka
@@ -29,7 +29,7 @@ Repository | Description | Author(s) | Visibility
 ## JIot
 Repository | Description | Author(s) | Visibility
 :-- | :-- | :--: | :--
-[jiot-whitepaper](https://github.com/Rainbow-Unicorn-Oo/jiot-whitepaper) | White paper | [Jeshka Del Sur](https://github.com/user/Rainbow-Unicorn-Oo) | Private
+[jiot-whitepaper](https://github.com/Rainbow-Unicorn-Oo/jiot-whitepaper) | White paper | [Jeshka Del Sur](https://github.com/user/Rainbow-Unicorn-Oo), [Adam Reading](https://github.com/AdamRd), [Samuel Rufinatscha](https://github.com/rufsam) | Private
 [jiot-java-full](https://github.com/user/Rainbow-Unicorn-Oo/jiot-java-full) | JIot Node written In Java | [Jeshka Del Sur](https://github.com/user/Rainbow-Unicorn-Oo) | Private
 
 ## Contracts
