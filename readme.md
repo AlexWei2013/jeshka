@@ -29,7 +29,7 @@ Repository | Description | Author(s) | Visibility
 ## JIot
 Repository | Description | Author(s) | Visibility
 :-- | :-- | :--: | :--
-[jiot-java-full](https://github.com/Rainbow-Unicorn-Oo/jiot-whitepaper) | White paper | [Jeshka Del Sur](https://github.com/user/Rainbow-Unicorn-Oo) | Private
+[jiot-whitepaper](https://github.com/Rainbow-Unicorn-Oo/jiot-whitepaper) | White paper | [Jeshka Del Sur](https://github.com/user/Rainbow-Unicorn-Oo) | Private
 [jiot-java-full](https://github.com/user/Rainbow-Unicorn-Oo/jiot-java-full) | JIot Node written In Java | [Jeshka Del Sur](https://github.com/user/Rainbow-Unicorn-Oo) | Private
 
 ## Contracts
