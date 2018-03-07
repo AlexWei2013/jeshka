@@ -3,7 +3,7 @@
 #  Jeshka Projects
 https://jeshka.io Community Projects in development. 
 
-To gain access to private repositories, contact us [in our Telegram group](https://t.me/joinchat/Hzoziw4a68aOMssRyeOUdQ)
+To gain access to private repositories, contact us [on our Discord server](https://discord.gg/VaPkPrN)
 
 - [Jeshka](#jeshka)
 - [JESH](#JESH)
